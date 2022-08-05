@@ -1,0 +1,268 @@
+/* font-family: 'Dancing Script', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oxygen', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Satisfy', cursive; */
+
+/* font-family: 'Encode Sans', sans-serif;
+
+ */
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hover-pink:hover{
+    color: crimson;
+}
+
+.hover-black:hover{
+    color: black;
+}
+
+.white-color{
+    color: white;
+}
+
+.pink-color{
+    color: crimson;
+}
+
+.pink-bg{
+    background-color: crimson;
+}
+
+.bg-to-black{
+    background-color: rgb(37, 37, 37);
+}
+
+.bg-to-white{
+    color: white;
+}
+
+.bold-by-me{
+    font-weight: bold;
+}
+
+.encode{
+    font-family: 'Encode Sans', sans-serif;
+}
+
+.pt{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.montserrat{
+    font-family: 'Montserrat-black', sans-serif;
+    
+}
+
+.font-size{
+    font-size: 4.2rem;
+}
+
+/* Part 1 Styling */
+
+.nav-margin1{
+    margin: 10px 0 10px 150px;
+}
+
+.nav-margin2{
+    margin: 10px 120px 10px 0;
+    padding: 20px;
+}
+
+.navbar-brand{
+    font-size: 1.7rem;
+}
+
+.navbar-brand:hover{
+    color: crimson; 
+}
+
+.nav-link{
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color: crimson;   
+}
+
+.nav-item{
+    margin: 2.2px;
+}
+
+.text-1{
+    font-size: 1.6rem;
+}
+
+.text-2{
+    font-size: 4.2rem;   
+}
+
+.text-3{
+    font-size: 2rem;
+}
+
+.text-margin{
+    margin: 120px 80px 120px 165px;   
+}
+
+.img-by-me{
+    margin: 40px 150px 40px 20px;
+    border-radius: 50%
+}
+  
+.btn-by-me {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: white;
+    font-size: 25px;
+    background: crimson;
+    padding: 15px 35px 15px 35px;
+    text-decoration: none;
+    border: none;
+    margin: 30px 0 30px 0;
+  }
+  
+  .btn-by-me:hover {
+    background: crimson;
+    text-decoration: none;
+  }
+
+  /* Part 2 Styling */
+
+.education{
+    margin: 100px 40%;
+}
+
+.table-margin{
+    margin: 120px 180px 160px 180px;
+}
+
+  /* Part 3 Styling */
+
+#languages{
+    padding: 30px 40px 100px;
+}
+
+.languages{
+    margin: 0 40% 120px;
+}
+
+.languages h1{
+    padding: 90px 20px 10px 20px;
+}
+
+.progress-bar{
+    background-color: crimson;
+}
+
+.lan-margin{
+    margin: 0 180px 5px 230px;
+}
+
+.lan-font-size{
+    font-size: 1.5rem;
+}
+
+/* Part 4 Styling */
+
+.projects{
+    margin: 90px 42%;
+}
+
+.projects-list{
+    margin: 90px 0 90px 610px;
+    line-height: 35px;
+}
+
+.projects-list ul li{
+    list-style: none;
+}
+
+/* Part 5 Styling */
+
+
+#strengths{
+    padding: 30px 40px 100px;
+}
+
+.strengths{
+    margin: 0 40% 80px;
+}
+
+.strengths h1{
+    padding: 60px 20px 0 20px;
+}
+
+.strengths-list ul{
+    margin: 0 0 0 600px;
+    line-height: 30px;
+    color: crimson;
+}
+
+
+/* Part 6 Styling */
+
+.objective{
+    margin: 90px 42%;
+}
+
+.objective-list{
+    margin: 90px 610px 90px 620px;
+    line-height: 35px;
+}
+
+.objective-list ul li{
+    list-style: none;
+}
+
+/* Part 7 Styling */
+/* 
+#contact{
+    padding: 30px 40px 100px;
+} */
+
+.contact{
+    margin: 0 40% 40px;
+}
+
+.contact h1{
+    padding: 80px 20px 0 20px;
+}
+/* 
+.contact-margin{
+    margin: 20px 5px 20px 5px;
+    padding: 50px 180px;
+} */
+
+/* .contact row{
+    margin: 100px;
+} */
+
+.contact-margin{
+    padding: 100px 110px;
+}
+
+.contact-margin a{
+    padding: 0 60px;
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin: 20px 0;
+}
+
+.contact-margin a:hover{
+    color: crimson;
+}
+
+
+
+
